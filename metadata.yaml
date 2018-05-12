@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19099#The-Continental-Monthly-Vol.-III-No.-V-May-1863Devoted-to-Literature-and-National-Policy
 gutenberg_bookshelf: Continental Monthly
 gutenberg_issued: '2006-08-21'
 gutenberg_type: Text
